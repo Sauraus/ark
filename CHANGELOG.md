@@ -2,6 +2,11 @@ ark Cookbook CHANGELOG
 ======================
 This file is used to list changes made in each version of the ark cookbook.
 
+v0.9.2 (2015-11-17)
+-------------------
+* Setup tar on OSX
+* Depend on 7zip cookbook for path to 7z.exe
+* Minimal CentOS install does not have unzip
 
 v0.9.0 (2014-06-06)
 -------------------
